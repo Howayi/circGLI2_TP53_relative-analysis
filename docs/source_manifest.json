@@ -1,0 +1,170 @@
+[
+  {
+    "repository_path": "upstream/rnaseq_upstream922.sh",
+    "source": "supplied/rnaseq_upstream922.sh",
+    "source_sha256": "15f44cebcefb53c60b9f18f48de66646ae99e632f950ccd789739e480007a2a4",
+    "published_sha256": "15f44cebcefb53c60b9f18f48de66646ae99e632f950ccd789739e480007a2a4",
+    "changes": "LF line endings; UTF-8 without BOM"
+  },
+  {
+    "repository_path": "upstream/CLEAR_array.sh",
+    "source": "supplied/CLEAR_array.sh",
+    "source_sha256": "512613b0630ecb1236cc217efbc9a0312a62a94dffb379ce19c0d9030047d81e",
+    "published_sha256": "512613b0630ecb1236cc217efbc9a0312a62a94dffb379ce19c0d9030047d81e",
+    "changes": "LF line endings; UTF-8 without BOM"
+  },
+  {
+    "repository_path": "upstream/ink4_ctnnb1_check.sh",
+    "source": "supplied/ink4_ctnnb1_check.sh",
+    "source_sha256": "63cb8afe61b521f46edc8cb10256139d845d88c72937325a5a2986267dc91068",
+    "published_sha256": "63cb8afe61b521f46edc8cb10256139d845d88c72937325a5a2986267dc91068",
+    "changes": "LF line endings; UTF-8 without BOM; manifest path updated to current local upstream layout"
+  },
+  {
+    "repository_path": "downstream/MLY_count_to_TPM.R",
+    "source": "supplied/MLY_count_to_TPM.R",
+    "source_sha256": "5a3b5e0b2acc3594f1428492d3870b8662cf00cc9e3d22bbc27b58513129c887",
+    "published_sha256": "01baa4ae762d120e2fb75419ee21a015a8d1b8b2def2c25a8d8316b10cfe4379",
+    "changes": "LF line endings; UTF-8 without BOM; trim trailing whitespace and blank lines at EOF"
+  },
+  {
+    "repository_path": "downstream/MLY count转化为TPM.R",
+    "source": "supplied/MLY count转化为TPM.R",
+    "source_sha256": "69f2efb554fe4c8dad392834791b5b9b2fc86a38f00d0ac2447ed48f5108f696",
+    "published_sha256": "315a4a812f7c8b267d82c8c05b8b92dc544a15c66e570980b483b6334f02d2fe",
+    "changes": "LF line endings; UTF-8 without BOM; trim trailing whitespace and blank lines at EOF"
+  },
+  {
+    "repository_path": "downstream/MLY_DEG_ANALYS.R",
+    "source": "supplied/MLY_DEG_ANALYS.R",
+    "source_sha256": "a38dea759918321f259cbb3ea018d3b9fadb122ed0cfb9b654f63a23dcc51476",
+    "published_sha256": "86bf2ff027bd01bf3093302e15e2128d48872e0aa156756c9e3c9937c9aaabfc",
+    "changes": "LF line endings; UTF-8 without BOM; trim trailing whitespace and blank lines at EOF"
+  },
+  {
+    "repository_path": "downstream/MLY_ggplot.R",
+    "source": "supplied/MLY_ggplot.R",
+    "source_sha256": "0269da920be18dd4395cbe6de98ffcfcef2eb22917327de3c4af00dc85648458",
+    "published_sha256": "d091d9b0a6d03e92e029116af1c1de427daabe19f969173009255312a2acc803",
+    "changes": "LF line endings; UTF-8 without BOM; trim trailing whitespace and blank lines at EOF"
+  },
+  {
+    "repository_path": "downstream/MLY_GO_KEGG.R",
+    "source": "supplied/MLY_GO_KEGG.R",
+    "source_sha256": "741663758aa3e089d012bac2d563afabf770ac10188a7add70a4ec090600fe09",
+    "published_sha256": "d2c539b4fb4ff4676a0f40c6dbf056b366322e59cac5c5885b1105bedf5edee3",
+    "changes": "LF line endings; UTF-8 without BOM; trim trailing whitespace and blank lines at EOF"
+  },
+  {
+    "repository_path": "downstream/MLY_chord.R",
+    "source": "supplied/MLY_chord.R",
+    "source_sha256": "b9f83c4bf9ec09f96312c70376c81c6dc878e75a694ac8073dec257b44be8560",
+    "published_sha256": "631fbc07695e0cd6279a5f08e92a54b0d56622713f364dc3aa4c6013db30852c",
+    "changes": "LF line endings; UTF-8 without BOM; trim trailing whitespace and blank lines at EOF"
+  },
+  {
+    "repository_path": "TP53_analysis/pan_cancer/tp53_progeny_activity.py",
+    "source": "supplied/tp53_progeny_activity.py",
+    "source_sha256": "848ed1644afe4b8fcd30353143db0741b509d7fec6b41dca49b5107d032d4838",
+    "published_sha256": "848ed1644afe4b8fcd30353143db0741b509d7fec6b41dca49b5107d032d4838",
+    "changes": "LF line endings; UTF-8 without BOM"
+  },
+  {
+    "repository_path": "docs/MANUSCRIPT_METHODS_EN.md",
+    "source": "supplied/MANUSCRIPT_METHODS_CN_EN.md",
+    "source_sha256": "46a296fe61ad51244dfb6751ff4841253b798e104fef63da5be46eed5e1c172e",
+    "published_sha256": "7624dbc3484a51bee128c4df8ef67855bfdc445f38f01d8226f82d8ed0c96fe6",
+    "changes": "LF line endings; UTF-8 without BOM; retain existing English section and appendices only; add English archive note; rename publication copy"
+  },
+  {
+    "repository_path": "TP53_analysis/prepare_resources.py",
+    "source": "workspace/TP53_analysis/prepare_resources.py",
+    "source_sha256": "012266a5baad91724793182938d353efad5abd15eddc48612fdb7148e3f136e4",
+    "published_sha256": "e79dcf7740086edc12db67147e4f806a44373f20e45435aec3db6672f9d10109",
+    "changes": "UTF-8/LF; TP53_INPUT_DIR input override; upstream script resolved within repository"
+  },
+  {
+    "repository_path": "TP53_analysis/fit_expression.R",
+    "source": "workspace/TP53_analysis/fit_expression.R",
+    "source_sha256": "21941fabc19b74c438655c5b38bfad915b7067a0a6c5d863e7c1400f496e03c3",
+    "published_sha256": "8d5118dcd92880d4c3c5d4aed61093effb9997ae8c83863f506b260171783114",
+    "changes": "UTF-8/LF; script-relative root; TP53_INPUT_DIR for counts; statistical logic unchanged"
+  },
+  {
+    "repository_path": "TP53_analysis/infer_activity.R",
+    "source": "workspace/TP53_analysis/infer_activity.R",
+    "source_sha256": "29df4daae4cd76d4c22fc51ab4c8360b45fc0fb901575f7ac7e5fc24fe6958d8",
+    "published_sha256": "a943630fa17cb1e2a0c0d48a70d4cfa18d872789066330bc6c2402370e7152d1",
+    "changes": "UTF-8/LF; script-relative root; TP53_INPUT_DIR for counts; statistical logic unchanged"
+  },
+  {
+    "repository_path": "TP53_analysis/compare_MDM2.R",
+    "source": "workspace/TP53_analysis/compare_MDM2.R",
+    "source_sha256": "103837842dfa98622bf09fbafc85f015e8d62989fd358de313543010ad228617",
+    "published_sha256": "7d8fa652e086ee4f9dab43c0180b7861544c02388f047c6370983d2dce091d13",
+    "changes": "UTF-8/LF; script-relative root; TP53_INPUT_DIR for counts; statistical logic unchanged"
+  },
+  {
+    "repository_path": "TP53_analysis/render_summary.R",
+    "source": "workspace/TP53_analysis/render_summary.R",
+    "source_sha256": "d7831845ddec819b9d535cd221986151a9b8769b1c0f73507615110c17baaf6d",
+    "published_sha256": "e64d2403b642ab6f6800630376be197a9988882eed099df697fc768343091cd8",
+    "changes": "UTF-8/LF; script-relative root; TP53_INPUT_DIR for counts; statistical logic unchanged"
+  },
+  {
+    "repository_path": "TP53_analysis/validate_outputs.py",
+    "source": "workspace/TP53_analysis/validate_outputs.py",
+    "source_sha256": "6d1d9fac1625f696252d8e1efa6acd6fb14475d4325f506be8d87397ec73ba04",
+    "published_sha256": "6d1d9fac1625f696252d8e1efa6acd6fb14475d4325f506be8d87397ec73ba04",
+    "changes": "LF line endings; UTF-8 without BOM"
+  },
+  {
+    "repository_path": "TP53_analysis/install_local.R",
+    "source": "workspace/TP53_analysis/install_local.R",
+    "source_sha256": "37fe4578899b4eba8bab8b419a1bd4b58abffb67aea7133187c314ca62db2716",
+    "published_sha256": "37fe4578899b4eba8bab8b419a1bd4b58abffb67aea7133187c314ca62db2716",
+    "changes": "LF line endings; UTF-8 without BOM"
+  },
+  {
+    "repository_path": "environment/TP53_R_package_versions.tsv",
+    "source": "workspace/TP53_analysis/package_versions.tsv",
+    "source_sha256": "91a9daf26220670f2212291e255162a1f52aabb544a98cdc4127ee8ab3b509f2",
+    "published_sha256": "98138e9cfbbaf6292e0237326ff902a9886db3e511c9469456da5ca51d513733",
+    "changes": "LF line endings; UTF-8 without BOM"
+  },
+  {
+    "repository_path": "INK4_CTNNB1_analysis/prepare_analysis.py",
+    "source": "workspace/INK4_CTNNB1_analysis/corrected_exact_P0/prepare_analysis.py",
+    "source_sha256": "7c1f6dfb5cb613840cf03d17b95c09262813ff48e190a8f79cf0b225cd9b9604",
+    "published_sha256": "24f2d66c09dacc579eb1631c334b5a5b55c85e994b88a2fe4bdf5cabd498357e",
+    "changes": "UTF-8/LF; explicit --input instead of machine-specific default; exact P0 logic retained"
+  },
+  {
+    "repository_path": "INK4_CTNNB1_analysis/render_figures.R",
+    "source": "workspace/INK4_CTNNB1_analysis/corrected_exact_P0/render_figures.R",
+    "source_sha256": "5d1b791df886ea61848350546e5e2c7625f1245bac2770ac185e55363098ae57",
+    "published_sha256": "fc5bc555c384319180e11b9d1b681e236712d61a83ca75016107e43ce093a33a",
+    "changes": "UTF-8/LF; regenerate all six figures without requiring unpublished pre-existing image files"
+  },
+  {
+    "repository_path": "INK4_CTNNB1_analysis/run_figures.R",
+    "source": "workspace/INK4_CTNNB1_analysis/corrected_exact_P0/run_figures.R",
+    "source_sha256": "e870ed68adc5d738406fd20ef450ef39aa82c377410cef5818e93c7cfb657496",
+    "published_sha256": "e870ed68adc5d738406fd20ef450ef39aa82c377410cef5818e93c7cfb657496",
+    "changes": "LF line endings; UTF-8 without BOM"
+  },
+  {
+    "repository_path": "INK4_CTNNB1_analysis/build_report.py",
+    "source": "workspace/INK4_CTNNB1_analysis/corrected_exact_P0/build_report.py",
+    "source_sha256": "e35e7753c9ac9e2a728900428da6a66feff67a89ca1875300c1b3ec8650a1cfc",
+    "published_sha256": "e35e7753c9ac9e2a728900428da6a66feff67a89ca1875300c1b3ec8650a1cfc",
+    "changes": "LF line endings; UTF-8 without BOM"
+  },
+  {
+    "repository_path": "INK4_CTNNB1_analysis/validate_and_bundle.py",
+    "source": "workspace/INK4_CTNNB1_analysis/corrected_exact_P0/validate_and_bundle.py",
+    "source_sha256": "bc3b0e86c3603cb7188003d6feb86a06a8c0c3aa40f9d96a1702323f07f621bd",
+    "published_sha256": "c3d71f9287561a1ad71e3a0a3d661f00179daa7e4ef5ed6657944595db0ed651",
+    "changes": "UTF-8/LF; explicit --input; remove obsolete byte-comparison against old images; manual visual review status corrected"
+  }
+]

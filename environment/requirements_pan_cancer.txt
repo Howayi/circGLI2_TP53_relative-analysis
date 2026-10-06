@@ -1,0 +1,4 @@
+# Versions recorded in the supplied pan-cancer methods document; not a complete lockfile.
+numpy==2.3.5
+pandas==3.0.1
+matplotlib==3.10.6

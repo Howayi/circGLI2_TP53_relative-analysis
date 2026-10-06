@@ -1,0 +1,11 @@
+package	version
+DESeq2	1.52.0
+edgeR	4.10.1
+limma	3.68.4
+decoupleR	2.17.0
+GSVA	2.6.3
+fgsea	1.38.0
+data.table	1.18.4
+ggplot2	4.0.3
+pheatmap	1.0.13
+jsonlite	2.0.0
